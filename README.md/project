@@ -1,4 +1,4 @@
 # YOLOv7-weapon-detection
 graduation project for bachelor's degree
 you can find the all data set with 15k image here : https://drive.google.com/drive/folders/1Ow03pIt0VS7oYp-RRdOceteag8F02mmw?usp=share_link
-weigh here https://drive.google.com/file/d/1fWey8Wt7O_dTyI8pguJI4UigMTrmUyYr/view?usp=share_link  yolo_custum.pt the result of train
+the result weight of training that will yous with detection.pt here https://drive.google.com/file/d/1fWey8Wt7O_dTyI8pguJI4UigMTrmUyYr/view?usp=share_link  yolo_custum.pt 
