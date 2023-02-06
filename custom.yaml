@@ -1,0 +1,6 @@
+train: C:/Users/emana/PycharmProjects/yolov7try1/yolov7/custom_dataset/train/images
+val: C:/Users/emana/PycharmProjects/yolov7try1/yolov7/custom_dataset/valid/images
+test: C:/Users/emana/PycharmProjects/yolov7try1/yolov7/custom_dataset/test/images
+
+nc: 3
+names: ['0', '1', '2']
